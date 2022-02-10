@@ -6,5 +6,5 @@ Be sure to download the latest version of HD-wallet-provider,
 Ensure software versions are updated in Package.JSON;
 Download ganache-cli and solc;
 Install and run NPM;
-Deploy the node in the React folder;
+Deploy the node in the React folder.
 
